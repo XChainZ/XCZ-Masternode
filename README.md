@@ -26,19 +26,33 @@ When the Node is fully synced, enter the command below to check masternode statu
 `xchainz-cli getmasternodestatus`
 
 If your Node is not syncing add the following nodes:
+
 addnode=159.69.47.244:14815
+
 addnode=5.181.48.139:14815
+
 addnode=37.120.190.8:14815
+
 addnode=116.203.206.24:14815
+
 addnode=173.249.41.92:14815
+
 addnode=207.180.233.149:14815
+
 addnode=195.201.25.161:14815
+
 addnode=195.201.25.161:14815 
-addnode=195.201.25.161:14815 
+
+addnode=195.201.25.161:14815
+
 addnode=195.201.25.161
-addnode=88.198.119.136:14815 
+
+addnode=88.198.119.136:14815
+
 addnode=164.68.116.197:14815
+
 addnode=45.77.227.153:14815
+
 addnode=78.46.226.63:14815
 addnode=91.194.90.15:14815
 addnode=144.91.70.209:14815
