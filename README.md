@@ -54,10 +54,15 @@ addnode=164.68.116.197:14815
 addnode=45.77.227.153:14815
 
 addnode=78.46.226.63:14815
+
 addnode=91.194.90.15:14815
+
 addnode=144.91.70.209:14815
+
 addnode=118.27.30.70:14815
+
 addnode=80.211.191.33:14815
+
 addnode=45.32.194.84:14815
 
 Use nano to open the xchainz.conf file
