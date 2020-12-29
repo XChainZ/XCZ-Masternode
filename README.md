@@ -2,14 +2,14 @@
 Shell script to install a XCZ Masternode on a Linux server running Ubuntu 16.04.
 
 ```
-wget -q https://raw.githubusercontent.com/axanthics/XCZ-Masternode/master/xchainz_auto.sh
+wget -q https://raw.githubusercontent.com/XChainZ/XCZ-Masternode/master/xchainz_auto.sh
 sudo chmod +x xchainz_auto.sh
 ./xchainz_auto.sh
 ```
 or
 
 ```
-wget -q https://raw.githubusercontent.com/axanthics/XCZ-Masternode/master/XCZ_masternode.sh
+wget -q https://raw.githubusercontent.com/XChainZ/XCZ-Masternode/master/XCZ_masternode.sh
 sudo chmod +x XCZ_masternode.sh
 ./XCZ_masternode.sh
 ```
