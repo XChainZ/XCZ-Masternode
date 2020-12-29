@@ -78,7 +78,7 @@ exit the file (Ctrl-X)
 # Guide for UpdateXCZ_mn.sh:
 
 ```
-wget -q https://raw.githubusercontent.com/axanthics/XCZ-Masternode/master/UpdateXCZ_mn.sh
+wget -q https://raw.githubusercontent.com/XChainZ/XCZ-Masternode/master/UpdateXCZ_mn.sh
 sudo chmod +x UpdateXCZ_mn.sh
 ./UpdateXCZ_mn.sh
 ```
